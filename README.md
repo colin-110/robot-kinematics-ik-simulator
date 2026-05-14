@@ -195,9 +195,9 @@ The simulation window contains:
 
 Add screenshots after running the project:
 
-```markdown
+
 ![Robot Simulation](images/screenshot.png)
-```
+
 ---
 
 
