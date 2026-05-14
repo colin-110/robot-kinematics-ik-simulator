@@ -133,7 +133,7 @@ matplotlib
 Run the simulation:
 
 ```bash
-python robot_arm.py
+python main.py
 ```
 
 ---
