@@ -193,7 +193,6 @@ The simulation window contains:
 
 ## Screenshots
 
-Add screenshots after running the project:
 
 
 ![Robot Simulation](images/screenshot.png)
